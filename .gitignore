@@ -1,0 +1,9 @@
+.vscode/
+venv/
+vimium-master/
+screenshot*
+vimGPT/
+.env
+__pycache__/
+/env
+/.github
